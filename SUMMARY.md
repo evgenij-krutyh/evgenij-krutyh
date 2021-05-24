@@ -1,4 +1,4 @@
-# Table of contents
+# Содержание
 
 * [psy-](README.md)
 * [Содержание](index.md)
