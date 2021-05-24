@@ -1,5 +1,5 @@
 # Психиатрия
 
 
-![](_files\images.png)
+![](psychiatry\_files\images.png)
 
