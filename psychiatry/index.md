@@ -1,6 +1,6 @@
 # Психиатрия
 
-1
+![](images.png)
 
 {% file src="../.gitbook/assets/images.png" %}
 
