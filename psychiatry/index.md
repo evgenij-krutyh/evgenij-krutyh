@@ -1,5 +1,5 @@
 # Психиатрия
 
 
-![](psychiatry\_files\images.png)
+![](evgenij-krutyh\psychiatry\_files\images.png)
 
