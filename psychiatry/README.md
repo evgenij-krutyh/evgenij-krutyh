@@ -1,4 +1,4 @@
 # Психиатрия
-[Общая психопатология](202105241552%20-%20common-psychopathology.md)
+[Общая психопатология](psychiatry/202105241552%20-%20common-psychopathology.md)
 
 
