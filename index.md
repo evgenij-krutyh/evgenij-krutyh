@@ -7,3 +7,4 @@
 ## [Психотерапия](psychotherapy/index.md)
 
 ## [Психофармакология](psychopharmacology/index.md)
+
