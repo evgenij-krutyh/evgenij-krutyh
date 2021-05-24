@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [psy-](README.md)
 * [Содержание](index.md)
 * [psychiatry](psychiatry/README.md)
   * [Психиатрия](psychiatry/index.md)
