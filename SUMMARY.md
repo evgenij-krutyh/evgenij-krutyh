@@ -1,6 +1,6 @@
 # Содержание
 
-* [psy-](README.md)
+* [Главная](README.md)
 * [Психиатрия](psychiatry/README.md)
 * [Психология](psychology/README.md)
 * [Психофармакология](psychopharmacology/README.md)
